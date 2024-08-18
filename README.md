@@ -1,0 +1,2 @@
+# bash-automation-script
+hi
